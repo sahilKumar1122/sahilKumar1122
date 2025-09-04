@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTEJASVISJAIN%2FTEJASVISJAIN&labelColor=%232ccce4&countColor=%23697689">
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FsahilKumar1122&labelColor=%232ccce4&countColor=%23697689">
+
 # 👋 Hi, I'm Sahil Kumar  
 
 **Software Engineer | Frontend & Full-Stack Developer**  
