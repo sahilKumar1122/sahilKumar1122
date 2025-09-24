@@ -157,7 +157,13 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sahilKumar1122&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilKumar1122&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+</div>
+
+## 📊 Contribution Calendar
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2196F3/sahilKumar1122" alt="GitHub Contribution Chart" width="100%"/>
 </div>
 
 ## 🎓 Certifications & Learning
