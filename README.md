@@ -8,39 +8,37 @@
 
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FsahilKumar1122&labelColor=%232ccce4&countColor=%23697689">
 
-<div align="center">
-  <img src="https://github.com/sahilKumar1122/sahilKumar1122/assets/your-profile-gif.gif" width="400" height="200" alt="coding gif"/>
-</div>
 
 # 💫 About Me
 
-```javascript
-const sahilKumar = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Development", "Frontend", "Backend", "System Design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Angular", "Vue.js"],
-            css: ["TailwindCSS", "Bootstrap", "Material-UI", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "Nest.js"],
-            python: ["Django", "FastAPI"],
-            misc: ["REST APIs", "GraphQL", "Socket.io"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Firebase"],
-        devOps: ["Docker", "AWS", "Vercel", "Netlify", "GitHub Actions"],
-        tools: ["Git", "Webpack", "Vite", "Jest", "Cypress"]
-    },
-    currentFocus: "Building scalable web applications and exploring cloud technologies",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
+👋 **Hey there!** I'm **Sahil Kumar**, a passionate **Software Engineer** currently working at **Standard Chartered Research Technology**.
 
-🎓 **Software Engineer at Standard Chartered Research Technology**  
-🏫 **B.Tech in Computer Science from Delhi Technological University (CGPA: 8.74)**  
-🌟 **Passionate about crafting clean, performant, and user-centric applications**  
+🎓 **Education:** B.Tech in Computer Science from **Delhi Technological University** (CGPA: 8.74)
+
+💻 **What I Do:**
+- 🚀 Build **scalable web applications** using modern technologies
+- 🎨 Craft **responsive and intuitive user interfaces**
+- ⚡ Optimize **backend systems** for performance and reliability
+- 🧪 Maintain **high code quality** with comprehensive testing
+
+🔧 **My Tech Journey:**
+- **Languages:** JavaScript, TypeScript, Python, Java, C++
+- **Frontend:** React, Next.js, Angular, Vue.js, TailwindCSS
+- **Backend:** Node.js, Express, NestJS, Django, FastAPI
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis, Firebase
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions, Vercel
+
+🎯 **Current Focus:** Building scalable web applications and exploring cloud technologies
+
+💡 **Fun Fact:** I debug with console.log and I'm not ashamed! 🐛
+
+---
+
+### 🏢 Professional Experience
+**Software Engineer at Standard Chartered Research Technology**
+- 📈 Revamped Angular portals boosting responsiveness by **40%**
+- ⚡ Optimized APIs reducing latency by **25%**
+- 🧪 Maintained **90%+ test coverage** with Jasmine & Karma  
 
 ## 📊 GitHub Analytics
 
@@ -102,15 +100,6 @@ const sahilKumar = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🚀 Professional Experience
-
-### 💼 Standard Chartered Research Technology | Software Engineer
-**Key Achievements:**
-- 📈 Revamped Angular portals boosting responsiveness by **40%**
-- ⚡ Optimized APIs reducing latency by **25%**
-- 🧪 Maintained **90%+ test coverage** with Jasmine & Karma
-- 🎨 Enhanced UX/UI resulting in improved user satisfaction
-- 🔧 Implemented efficient state management solutions
 
 ## 🌟 Featured Projects
 
@@ -154,10 +143,6 @@ const sahilKumar = {
 
 ## 🏆 Competitive Programming & Achievements
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilKumar1122&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
-</div>
-
 - 🧩 **1200+ Problems Solved** on LeetCode & GeeksforGeeks
 - 🏅 **Amazon HackOn Season 3** Participant
 - 📊 **LeetCode Rating:** [Your Rating]
@@ -165,10 +150,14 @@ const sahilKumar = {
 - 💪 Strong foundation in **Data Structures & Algorithms**
 - 🏆 **Coding Contest Participation:** 50+ contests
 
-## 📈 Contribution Graph
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SAHIL_BAZARD?theme=dark&font=Karma&ext=contest" />
+</div>
+
+## 📈 Activity Graph
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahilKumar1122/sahilKumar1122/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sahilKumar1122&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
 </div>
 
 ## 🎓 Certifications & Learning
