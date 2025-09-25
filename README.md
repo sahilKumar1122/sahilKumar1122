@@ -223,7 +223,6 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=sahilKumar1122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
